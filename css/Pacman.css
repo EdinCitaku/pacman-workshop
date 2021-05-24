@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+  margin-top: 30px;
+}
+#main {
+  width: 800px;
+  margin: 0 auto;
+}
